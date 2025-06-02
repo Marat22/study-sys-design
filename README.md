@@ -52,5 +52,6 @@
   - [ ] 16
   - [ ] 17
   - [ ] 18
+
 Доп:
 - [ ] [прикольная лекция по SQLite](https://www.youtube.com/watch?v=ZSKLA81tBis)
